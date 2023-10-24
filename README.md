@@ -6,7 +6,7 @@ Little Lemon has chosen to digitize its menu, which makes it relatively easy for
 ## Tasks
 * Create a grid layout to display mock data of food, drink and dessert menu items.
 
-* Embed a right navigation button to open a "menu item options" settings page with filtering and sorting options (filter and sort functionalities are not required, but is a worthwhile challenge).
+* Embed a right navigation button to open a "menu item options" settings page with filtering and sorting options (filter and sort functionalities are not required).
 
 * Provide additional information on selected menu items when users interact with the menu.
 
