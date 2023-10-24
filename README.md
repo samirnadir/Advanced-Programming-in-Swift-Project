@@ -10,6 +10,9 @@ Little Lemon has chosen to digitize its menu, which makes it relatively easy for
 
 * Provide additional information on selected menu items when users interact with the menu.
 
+
 ## Simulation
+
+https://github.com/samirnadir/Advanced-Programming-in-Swift-Project/assets/136941593/c3814834-3a27-4d12-ba6d-8fdcd55d0629
 
 
